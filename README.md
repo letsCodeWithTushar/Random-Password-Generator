@@ -1,7 +1,5 @@
 <h1>Random-Password-Generator (Flask)</h1>
 
-Blog Link - https://machinelearningprojects.net/random-password-generator-flask-app/
-
 <h2>Here are the steps to download and run this project into your system.</h2>
 <ol start="1">
 
@@ -56,6 +54,8 @@ pip install flask
 
 <li>
 <p>Run the project</p>
+  
+Blog Link - https://machinelearningprojects.net/random-password-generator-flask-app/
 
 ```bash
 python app.py

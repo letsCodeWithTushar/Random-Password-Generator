@@ -54,8 +54,6 @@ pip install flask
 
 <li>
 <p>Run the project</p>
-  
-Blog Link - https://machinelearningprojects.net/random-password-generator-flask-app/
 
 ```bash
 python app.py
@@ -63,3 +61,5 @@ python app.py
 </li>
 
 </ol>
+
+Blog Link - https://machinelearningprojects.net/random-password-generator-flask-app/

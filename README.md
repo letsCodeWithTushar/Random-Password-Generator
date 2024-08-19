@@ -61,5 +61,5 @@ python app.py
 </li>
 
 </ol>
-
+<br/>
 Blog Link - https://machinelearningprojects.net/random-password-generator-flask-app/
